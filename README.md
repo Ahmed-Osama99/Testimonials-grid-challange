@@ -26,11 +26,10 @@ Users should be able to:
 
 ![](./Screenshot.png)
 
-
 ### Links
 
-- Solution URL: [Project Solution](https://your-solution-url.com)
-- Live Site URL: [Project live site](https://your-live-site-url.com)
+- Solution URL: [Project Solution](https://www.frontendmentor.io/solutions/mobile-first-responsive-layout-testimonails-kDY7IIvj0h)
+- Live Site URL: [Project live site](https://ahmed-osama99.github.io/Testimonials-grid-challange/)
 
 ## My process
 
@@ -43,7 +42,6 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-
 
 ```css
 @media screen and (min-width: 33em) {
