@@ -35,7 +35,7 @@ main {
   width: min(95%, 70rem);
   display: grid;
   gap: 2rem;
-  grid-template-areas: "one" "two" "three" "four" "fize";
+  grid-template-areas: "one" "two" "three" "four" "five";
   grid-auto-columns: 1fr;
 }
 .testimonial-box {
